@@ -5,7 +5,7 @@ VSCode is a waaaaaaayyy better text editor than the recommended gedit, and it al
 Note: For Mac users use `Cmd` instead of `Ctrl` in shortcuts.
 
 # Step 1
-Open VSCode and under _Extensions_ `Ctrl-Shift-X`
+Open VSCode and under _Extensions_ `(Ctrl-Shift-X)`
 
 
 
